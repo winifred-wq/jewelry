@@ -28,11 +28,7 @@
                 <a href="about.html">About</a>
                 <a href="contact.php" class="active">Contact</a>
             </div>
-            <div class="nav-icons">
-                <i class="fas fa-search"></i>
-                <i class="fas fa-heart"></i>
-                <i class="fas fa-shopping-bag"></i>
-            </div>
+            
         </header>
 
         <!-- PAGE TITLE -->
