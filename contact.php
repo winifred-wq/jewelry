@@ -153,12 +153,7 @@
         <!-- FOOTER -->
         <footer>
             <div>&copy; 2026 Winnie's Collection — luxury jewelry boutique</div>
-            <div class="footer-socials">
-                <i class="fab fa-instagram"></i>
-                <i class="fab fa-pinterest"></i>
-                <i class="fab fa-etsy"></i>
-                <i class="far fa-envelope"></i>
-            </div>
+            
         </footer>
 
     </div>
